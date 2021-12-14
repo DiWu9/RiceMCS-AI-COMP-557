@@ -1,0 +1,44 @@
+Units: 10-12
+Semester: ['Spr2021']
+Taken: set(['COMP539', 'COMP557'])
+Requests:
+  Request{['COMP502'] [] [] 5.0}
+  Request{['COMP580'] [] [] 1}
+  Request{['COMP581'] [] [] 1}
+  Request{['COMP600'] [] [] 1}
+  Request{['COMP645'] [] [] 3.0}
+  Request{['COMP650'] [] [] 1}
+Found 35 optimal assignments with weight 15.000000 in 903 operations
+First assignment took 26 operations
+15.0
+('sum', 'sum-credit-rangeSpr2021', 14) = [10, 10]
+COMP581 = None
+COMP580 = None
+('COMP539', 'Spr2021') = 0
+('COMP600', 'Spr2021') = 1
+COMP645 = Spr2021
+('COMP557', 'Spr2021') = 0
+('sum', 'sum-credit-rangeSpr2021', 9) = [3, 3]
+('COMP580', 'Spr2021') = 0
+COMP600 = Spr2021
+('sum', 'sum-credit-rangeSpr2021', 8) = [0, 3]
+('sum', 'sum-credit-rangeSpr2021', 11) = [3, 4]
+('sum', 'sum-credit-rangeSpr2021', 10) = [3, 3]
+('COMP581', 'Spr2021') = 0
+('COMP650', 'Spr2021') = 3
+('sum', 'sum-credit-rangeSpr2021', 13) = [7, 10]
+('sum', 'sum-credit-rangeSpr2021', 12) = [4, 7]
+('COMP645', 'Spr2021') = 3
+('sum', 'sum-credit-rangeSpr2021', 15) = [10, 10]
+COMP650 = Spr2021
+COMP502 = Spr2021
+COMP539 = Taken
+('sum', 'sum-credit-rangeSpr2021') = 10
+COMP557 = Taken
+('COMP502', 'Spr2021') = 3
+Here's the best schedule:
+Semester       Units    Course
+  Spr2021       3       COMP502
+  Spr2021       1       COMP600
+  Spr2021       3       COMP645
+  Spr2021       3       COMP650

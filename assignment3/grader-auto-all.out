@@ -1,0 +1,53 @@
+maxTotalPoints: 65
+messages: []
+mode: all
+parts:
+- maxPoints: 2
+  maxSeconds: 1
+  messages: []
+  name: 4.1.1-0
+  points: 2
+  seconds: 0
+- maxPoints: 3
+  maxSeconds: 1
+  messages: []
+  name: 4.1.1-1
+  points: 3
+  seconds: 0
+- maxPoints: 15
+  maxSeconds: 1
+  messages: []
+  name: 4.1.2
+  points: 15
+  seconds: 0
+- maxPoints: 5
+  maxSeconds: 1
+  messages: []
+  name: 4.1.3
+  points: 5
+  seconds: 0
+- maxPoints: 10
+  maxSeconds: 1
+  messages: []
+  name: 4.1.4
+  points: 10
+  seconds: 0
+- maxPoints: 10
+  maxSeconds: 1
+  messages: []
+  name: 4.1.5
+  points: 10
+  seconds: 0
+- maxPoints: 15
+  maxSeconds: 1
+  messages: []
+  name: 4.2.1
+  points: 15
+  seconds: 0
+- maxPoints: 5
+  maxSeconds: 1
+  messages: []
+  name: 4.2.2
+  points: 5
+  seconds: 0
+totalPoints: 65

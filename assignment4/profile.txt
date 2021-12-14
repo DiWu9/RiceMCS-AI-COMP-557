@@ -1,0 +1,19 @@
+# Unit limit per semester.
+minUnits 10
+maxUnits 12
+
+# These are the semesters that I need to fill. It is assumed that
+# the semesters are sorted in chronological order.
+register Spr2021
+
+# Courses I've already taken
+taken COMP539
+taken COMP557
+
+# Courses that I'm requesting
+request COMP502 weight 5
+request COMP580
+request COMP581
+request COMP600
+request COMP645 weight 3
+request COMP650
